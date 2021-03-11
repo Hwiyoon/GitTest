@@ -14,7 +14,7 @@
 			<li>1. 브랜치 초기화 : 특정 위치로 되돌림(Hard:바로폐기, Mixed:언스테이징, Soft:스테이징)</li>
 			<li>2. 리버스 커밋 : 되돌아간 지점을 새로 커밋하는 개념</li>
 		</ul>
-		건들지마세요
+		<a href="newIndex.jsp">브랜치 설명쓰</a>
 	</body>
 	<script>
 		
